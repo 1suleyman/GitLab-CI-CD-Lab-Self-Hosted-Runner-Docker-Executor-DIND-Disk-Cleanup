@@ -562,6 +562,8 @@ Pipeline failed with:
 no space left on device
 ```
 
+<img width="600" height="144" alt="22 04 Pulling from Libraryubuntu" src="https://github.com/user-attachments/assets/8e41a6ec-43f7-4064-8e70-8af86d752c33" />
+
 ---
 
 ## Step 22: Recover Disk Space
